@@ -50,7 +50,7 @@ ngx_cpystrn(u_char *dst, u_char *src, size_t n)
     return dst;
 }
 
-//¸´ÖÆsrc×Ö·û´®
+//å¤åˆ¶srcå­—ç¬¦ä¸²
 u_char *
 ngx_pstrdup(ngx_pool_t *pool, ngx_str_t *src)
 {
