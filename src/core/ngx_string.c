@@ -50,11 +50,6 @@ ngx_cpystrn(u_char *dst, u_char *src, size_t n)
     return dst;
 }
 
-<<<<<<< HEAD
-//复制src字符串
-=======
-//¸´ÖÆsrc×Ö·û´®
->>>>>>> a0c21601ce6f6190e1e9d5fd779af4003f2ca7b4
 u_char *
 ngx_pstrdup(ngx_pool_t *pool, ngx_str_t *src)
 {
