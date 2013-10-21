@@ -13,3 +13,4 @@
 tags
 Makefile
 objs/*
+cscope*
