@@ -16,3 +16,6 @@ objs/*
 cscope*
 *.dSYM
 ngx_test
+.cproject
+.project
+.settings/
